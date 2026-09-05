@@ -1,6 +1,6 @@
 # Hi, I'm Haleigh 👋
 
-### Executive Operations Partner | AI-Enabled Systems Builder
+## Executive Operations Partner | AI-Enabled Systems Builder
 
 I build systems that make executive work easier.
 
@@ -10,67 +10,67 @@ I'm especially interested in using AI and automation to make that work faster an
 
 ---
 
-## ⚡ Selected Work
+# ⚡ Selected Work
 
-### 🤖 [Executive Briefing Workflow](https://github.com/haleighnicole93/executive-briefing-workflow)
+## 🧭 [Founder Operating Layer](https://github.com/haleighnicole93/founder-operating-layer)
+
+**Simulated Executive Operations Project**
+
+An AI-assisted executive operating system showing how I triage competing founder priorities, apply human judgment above automation, protect executive attention, and drive decisions through follow-through.
+
+**What it demonstrates:**
+- Founder priority triage and escalation
+- Human judgment layered above AI-assisted information processing
+- Decision-ready executive briefings
+- Protection of high-value focus time
+- Business and personal logistics coordination
+- Decision tracking and follow-through
+
+---
+
+## 🤖 [Executive Briefing Workflow](https://github.com/haleighnicole93/executive-briefing-workflow)
+
+**Real-World AI Workflow**
 
 An AI-assisted workflow built to prepare me for recurring CEO morning calls by surfacing what matters before the conversation starts.
 
-**Built to:**
-- Surface priorities, deadlines, and items requiring attention
-- Consolidate relevant executive context
-- Identify follow-ups and unanswered items
-- Support response preparation
-- Reduce repetitive manual prep while keeping human judgment in the loop
-
-**Why I built it:**  
-I wanted to walk into morning calls already knowing what was moving, what was stuck, and what might need the CEO's attention instead of spending the meeting getting caught up.
+**What it demonstrates:**
+- Executive communication triage
+- AI-assisted research and summarization
+- Response-needed email identification
+- Meeting and calendar context
+- Task and deadline visibility
+- Human review before executive use
 
 ---
 
-### ✈️ [Executive Offsite Planning System](https://github.com/haleighnicole93/executive-offsite-planning-system)
+## 🗂️ [Executive Offsite Planning System](https://github.com/haleighnicole93/executive-offsite-planning-system)
 
-A repeatable operating system for planning executive and company offsites without relying on someone's memory to hold everything together.
+**Simulated Project Based on Real Operational Experience**
 
-**Built to manage:**
-- Attendees and travel logistics
-- Lodging, meeting space, and vendors
-- Timelines and dependencies
-- Ownership and follow-up
-- Budgets and contingencies
-- Executive decisions and escalations
+A structured planning system for coordinating owners, dependencies, timelines, vendors, logistics, risks, and executive escalation across a complex company offsite.
 
-**Why I built it:**  
-Offsites have a ridiculous number of moving pieces. I wanted one system that made it immediately clear what was done, what was next, who owned it, and what actually needed executive involvement.
-
----
-
-## 🧠 How I Use AI
-
-AI is part of my everyday workflow, both professionally and personally.
-
-I use tools like **ChatGPT, Claude, and Copilot** for research, executive preparation, workflow design, SOPs, drafting, problem-solving, and building reusable agents and automations.
-
-Outside of work, I've also experimented with AI agents for affiliate workflows and used multiple AI platforms together to create digital content and explore new income streams.
-
-I'm less interested in using AI just because it's AI and more interested in figuring out **what I can make it do.**
+**What it demonstrates:**
+- Cross-functional coordination
+- Ownership and dependency tracking
+- Vendor and logistics management
+- Risk and contingency planning
+- Executive escalation
+- End-to-end operational follow-through
 
 ---
 
-## 🛠️ Tools I Work In
+# 🛠️ How I Work
 
-**AI:** ChatGPT · Claude · Copilot · AI Agents · Workflow Automation
+I tend to work at the intersection of **executive support, judgment, systems, and follow-through.**
 
-**Operations:** Notion · Asana · ClickUp · SharePoint · Microsoft 365 · Google Workspace · Slack
+That usually means:
 
-**Creative:** Canva + a constantly changing collection of AI tools I'm probably experimenting with
+- Turning ambiguous requests into clear next steps
+- Figuring out what actually requires executive attention
+- Building lightweight systems where a process is missing
+- Keeping decisions, owners, and deadlines from disappearing
+- Using AI where it creates leverage without removing human judgment
+- Learning whatever tool or process I need to solve the problem in front of me
 
----
-
-## 👋 A Little About Me
-
-I'm curious by default and usually learning something new.
-
-Give me a messy process, an unfamiliar tool, or a random **"can you figure this out?"** problem and I'm probably going to enjoy figuring it out more than I should.
-
-I build systems because I like making complicated things feel simple.
+The tools may change. The goal is the same: **reduce executive mental load and keep priorities moving.**
